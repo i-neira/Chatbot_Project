@@ -1,4 +1,4 @@
-# Thesis_MDSAA
+# Chatbot_Project
 
 This repository contains the files used to build the chatbot prototype. Its structure is organized as follows:
 
